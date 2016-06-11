@@ -1,4 +1,4 @@
-Introduction CDG WAS HERE
+Introduction CDG WAS HERE - TWICE
 ============
 The Cisco ACI Fabric is configured using an abstract policy model on the
 Cisco Application Policy Infrastructure Controller (APIC).  The APIC
